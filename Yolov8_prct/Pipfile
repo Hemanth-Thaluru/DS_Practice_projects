@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cv = "*"
+opencv-python = "*"
+ultralytics = "*"
+pytorch = "*"
+torch = "==1.0.2"
+torchaudio = "==2.0.2"
+torchvision = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
