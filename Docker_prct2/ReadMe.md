@@ -1,4 +1,4 @@
-## SImple Project for learning `**Docker**` and `**FastAPI**` 
+## SImple Project for learning `Docker` and `FastAPI` 
 
 ### Steps followed
 1. Intially built docker image with help of Dockerfile
