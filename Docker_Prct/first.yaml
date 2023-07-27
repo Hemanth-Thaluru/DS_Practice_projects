@@ -1,0 +1,14 @@
+1:"hello"
+---
+- apple
+- Apple # Case Sensitive
+---
+cities:
+  - New Delhi
+
+booleanValue: No
+TruebooleanValue: Yes
+numbers: 12
+
+
+...
