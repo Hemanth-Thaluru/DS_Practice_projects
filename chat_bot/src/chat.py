@@ -6,10 +6,10 @@ import numpy as np
 from nltk_utils import *
 
 
-with open('intents.json','r') as file:
+with open('src/intents.json','r') as file:
     intents=json.load(file)
 
-FILE='model.pth'
+FILE='src/model.pth'
 data=torch.load(FILE)
 
 input_size = data["input_size"]
